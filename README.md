@@ -3,7 +3,7 @@
 #### By Molly Donegan
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdonegan91/gmail-signature/main/capture.png">
+  <img src="https://raw.githubusercontent.com/mdonegan91/gmail-signature/main/capture.png" width="400">
 </div>
 
 
