@@ -2,7 +2,9 @@
 
 #### By Molly Donegan
 
-![capture](/capture.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdonegan91/gmail-signature/main/capture.png">
+</div>
 
 
 ## Setup
